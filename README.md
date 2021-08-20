@@ -2,7 +2,7 @@
 
 Class    | Title
 ---------| ---------
- Read:01 |  [Java Basic](Read:01.md)
+ Read:01 |  [Java Basic](./Read:01.md)
  Read:02 |  [ Arrays, Loops, Imports](Read:02.md)
  Read:03 |  [ Maps, primitives, File I/O](Read:03.md)
  Read:04 |  [ OOP](Read:04.md)
