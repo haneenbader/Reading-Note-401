@@ -27,8 +27,8 @@ Class    | Title
  Read:25 |
  Read:26 |[Android Fundamentals](./Read:26.md)
  Read:27 |[Intents, Activities, and SharedPreferences](./Read:27.md)
- Read:28 |
- Read:29 |  
+ Read:28 |[RecyclerView](Read:28.md)
+ Read:29 |[Room](Read:29.md)
  Read:30 |  
  Read:31 |
  
