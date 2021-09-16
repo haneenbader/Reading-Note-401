@@ -7,18 +7,18 @@ Class    | Title
  Read:03 |  [ Maps, primitives, File I/O](./Read:03.md)
  Read:04 |  [ OOP](./Read:04.md)
  Read:05 |  [Linked Lists](./Read:05.md)
- Read:06 |
- Read:08 |
- Read:09 |
- Read:10 |
- Read:11 |
- Read:12 |
- Read:13 |
- Read:15 |
- Read:16 |
- Read:17 |  
- Read:18 |  
- Read:19 |
+ Read:06 |  [ Inheritance and Interfaces](https://ayaabudagar.github.io/reading-notes/Read:06)
+ Read:08 |  [OO Design](https://ayaabudagar.github.io/reading-notes/Read:08)
+ Read:09 |  [WRRC and Java](https://ayaabudagar.github.io/reading-notes/Read:09)
+ Read:10 |  [Stacks & Queues](https://ayaabudagar.github.io/reading-notes/Read:10)
+ Read:11 |  [Spring](https://ayaabudagar.github.io/reading-notes/Read:11)
+ Read:12 |  [Spring RESTful Routing & Static Files](https://ayaabudagar.github.io/reading-notes/Read:12)
+ Read:13 |  [Related Resources and Integration Testing](https://ayaabudagar.github.io/reading-notes/Read:13)
+ Read:15 |  [Trees](https://ayaabudagar.github.io/reading-notes/Read:15)
+ Read:16 |  [Spring Authentication](https://ayaabudagar.github.io/reading-notes/Read:16)
+ Read:17 |  [Spring Authorization](https://ayaabudagar.github.io/reading-notes/Read:17)
+ Read:18 |  [Web App Security](https://ayaabudagar.github.io/reading-notes/Read:18)
+ Read:19 |  [Spring and Sockets](https://ayaabudagar.github.io/reading-notes/Read:18)
  Read:20 |
  Read:21 |
  Read:22 |
